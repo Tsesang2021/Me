@@ -47,10 +47,11 @@ body {
       }
 
       button:hover {
-        opacity: 0.9;
+        opacity: 0.8;
       }
 
       a {
-        color: rgba(0,0,0,0.87);
-        font-size:large;
+        color:purple;
+        font-style:italic;
+        font-weight:bold;
       }
